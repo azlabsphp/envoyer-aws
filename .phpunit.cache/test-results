@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SESAdapterTest::test_sendgrid_adapter_send_request":5},"times":{"SESAdapterTest::test_sendgrid_adapter_send_request":1.464}}
